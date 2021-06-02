@@ -1,8 +1,8 @@
 # Practical
 
 #Tools
-  DjangoFramework
-	DjangoRestFramework
+  		1.DjangoFramework
+		2.DjangoRestFramework
 
 
 #Steps
